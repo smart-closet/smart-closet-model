@@ -1,4 +1,4 @@
-# getWeatherData(city,place,current_Time)
+# getWeatherData ( city , place , current_Time )
 
 
 ## 函式的輸入與輸出
