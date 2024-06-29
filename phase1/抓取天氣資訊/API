@@ -18,7 +18,7 @@ def getWeatherData(city,place,current_Time=None):
         "Authorization": "CWA-7EBCB64E-EA36-4A13-9D77-82DC3F7E877C",
         "elementName":['PoP6h','WeatherDescription','CI','T','AT'],
         "locationName":[place],
-        "timeTo":current_time_str
+        "timeFrom":current_time_str
         
     }
     
