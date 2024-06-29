@@ -25,7 +25,7 @@ getWeatherData(城市名稱 , 鄉or鎮or市or區 , 時間 [可略,default 為現
 2. 資料的時間範圍是該地，2天內的天氣資訊，每3個小時更新一次，取最近的下個預測
 
 ## 參考的網站
-### api 文件
+### 中央氣象署開放資料平臺 api 文件
 https://opendata.cwa.gov.tw/dist/opendata-swagger.html#/
 ### 全台鄉鎮市對照表
 https://opendata.cwa.gov.tw/opendatadoc/Opendata_City.pdf
