@@ -23,6 +23,8 @@ getWeatherData(城市名稱 , 鄉or鎮or市or區 , 時間 [可略,default 為現
 
 1. 需要定位當前地址才能夠有 city 及 place 的參數傳入 (目前設定式寫在函式外面或是要在裡面也可以)
 2. 資料的時間範圍是該地，2天內的天氣資訊，每3個小時更新一次，取最近的下個預測
+3. 好像andriod app 有手機定位功能，這裡就打算丟給後面做 app 時寫定位
+   https://medium.com/@ntougpslab/7-%E5%AE%9A%E4%BD%8D%E5%8F%8Agoogle-map-2b9565c52877
 
 ## 參考的網站
 ### 中央氣象署開放資料平臺 api 文件
