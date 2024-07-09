@@ -7,7 +7,8 @@
 ### 1. check
 確保每張照片都有分配到
 ### 2. output csv file
-**`TYPE_E_PATH`, `TYPE_Q_PATH`, `FILE_TYPE` 待修改**
+**`TYPE_E_PATH`, `TYPE_Q_PATH`, `FILE_TYPE` 待修改**<br />
+output: `bad_outfits.csv`
 
 格式：
 ``` csv=
