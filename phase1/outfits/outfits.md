@@ -43,3 +43,19 @@ idxE, idxQ, img_pathE, img_pathQ
 ```
 
 ### 4. end
+
+---
+
+# ugly
+### 0. 取出醜的 outfits
+要同時有上衣、下衣，才能計入。
+
+output: `ugly_outfits.csv`（共 1105 筆資料）
+
+格式（與 `good_outfits.csv` 相同）：
+``` csv=
+index,img_path,img_pathE,img_pathQ
+13_6,../new_data/ugly_clothes_pair/6.jpg,../new_data/cut_ugly_clothes_pair/13_6_E_.jpg,../new_data/cut_ugly_clothes_pair/13_6_Q_.jpg
+```
+
+### 1. end
