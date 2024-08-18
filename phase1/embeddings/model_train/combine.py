@@ -1,8 +1,8 @@
 import pandas as pd
 
 # 读取两个 CSV 文件
-df1 = pd.read_csv('CNN(Resnet50)/bad_embedding_cnn.csv')
-df2 = pd.read_csv('CNN(Resnet50)/goods_embedding_cnn.csv')
+df1 = pd.read_csv('phase1/embeddings/model_train/good_embedding_CNN.csv')
+df2 = pd.read_csv('phase1/embeddings/model_train/ugly_embedding_CNN.csv')
 
 # 合并数据
 combined_df = pd.concat([df1, df2], ignore_index=True)
