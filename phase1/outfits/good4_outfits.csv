@@ -2093,7 +2093,6 @@ index,img_path,img_pathE,img_pathQ
 2_995,../new_data/style:korea/995.jpg,../new_data/cut_style:korea/2_995_E_.jpg,../new_data/cut_style:korea/2_995_Q_.jpg
 2_1002,../new_data/style:korea/1002.jpg,../new_data/cut_style:korea/2_1002_E_.jpg,../new_data/cut_style:korea/2_1002_Q_.jpg
 2_1004,../new_data/style:korea/1004.jpg,../new_data/cut_style:korea/2_1004_E_.jpg,../new_data/cut_style:korea/2_1004_Q_.jpg
-index,img_path,img_pathE,img_pathQ
 14_1,../new_data/style:taiwan/1.jpg,../new_data/cut_style:taiwan/14_1_E_.jpg,../new_data/cut_style:taiwan/14_1_Q_.jpg
 14_2,../new_data/style:taiwan/2.jpg,../new_data/cut_style:taiwan/14_2_E_.jpg,../new_data/cut_style:taiwan/14_2_Q_.jpg
 14_3,../new_data/style:taiwan/3.jpg,../new_data/cut_style:taiwan/14_3_E_.jpg,../new_data/cut_style:taiwan/14_3_Q_.jpg
