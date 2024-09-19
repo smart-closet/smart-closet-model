@@ -108,6 +108,7 @@ colors_dict = {
 
 ### 用 RGB 比例 + HSV 進行相似度處理
 (這邊還是要在研究一下)
+一個解決的方法是存種類不存顏色，就可能給用戶看辯識出來的顏色，但後端存的是 "chic"
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/smart-closet/smart-closet-model/blob/main/phase1/Color_identification/ppp.png" alt="orange" width="200" style="margin-right: 10px;"/>
